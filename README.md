@@ -2,10 +2,14 @@
 README
 
 Cody Newman
-- pancakes
-- gummy worms
-- COFFEE COFFEE COFFEE
+<ul>
+<li> pancakes </li>
+<li> gummy worms </li>
+<li> COFFEE COFFEE COFFEE </li>
+</ul>
 
 <br>
-<img src="http://www.todayifoundout.com/wp-content/uploads/2015/07/coffee2.png">
+
+<br>
+<img src="https://s-media-cache-ak0.pinimg.com/736x/ee/f8/1e/eef81edc874708984b6420b8c06d2854.jpg">
 <br>
