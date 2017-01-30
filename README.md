@@ -6,4 +6,4 @@ Cody Newman
 - gummy worms
 - COFFEE COFFEE COFFEE
 
-!(http://full/path/to/img.jpg "Coffee")
+![](http://www.todayifoundout.com/wp-content/uploads/2015/07/coffee2.png "Coffee")
